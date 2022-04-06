@@ -1,0 +1,87 @@
+[33mWarning: the running version of Bundler (2.1.2) is older than the version that created the lockfile (2.3.10). We suggest you to upgrade to the version that created the lockfile by running `gem install bundler:2.3.10`.
+[0m[33mThe dependency tzinfo (~> 1.2) will be unused by any of the platforms Bundler is installing for. Bundler is installing for x86_64-linux, ruby but the dependency is only for x86-mingw32, x64-mingw32, x86-mswin32, java. To add those platforms to the bundle, run `bundle lock --add-platform x86-mingw32 x64-mingw32 x86-mswin32 java`.[0m
+Resolving dependencies...
+[33mThe dependency tzinfo-data (>= 0) will be unused by any of the platforms Bundler is installing for. Bundler is installing for x86_64-linux, ruby but the dependency is only for x86-mingw32, x64-mingw32, x86-mswin32, java. To add those platforms to the bundle, run `bundle lock --add-platform x86-mingw32 x64-mingw32 x86-mswin32 java`.[0m
+[33mThe dependency wdm (~> 0.1.1) will be unused by any of the platforms Bundler is installing for. Bundler is installing for x86_64-linux, ruby but the dependency is only for x86-mingw32, x64-mingw32, x86-mswin32. To add those platforms to the bundle, run `bundle lock --add-platform x86-mingw32 x64-mingw32 x86-mswin32`.[0m
+[33mThe dependency http_parser.rb (~> 0.6.0) will be unused by any of the platforms Bundler is installing for. Bundler is installing for x86_64-linux, ruby but the dependency is only for java. To add those platforms to the bundle, run `bundle lock --add-platform java`.[0m
+[1mTraceback[m (most recent call last):
+	10: from /usr/local/bin/jekyll:23:in `<main>'
+	 9: from /usr/local/bin/jekyll:23:in `load'
+	 8: from /var/lib/gems/2.7.0/gems/jekyll-4.2.2/exe/jekyll:11:in `<top (required)>'
+	 7: from /var/lib/gems/2.7.0/gems/jekyll-4.2.2/lib/jekyll/plugin_manager.rb:52:in `require_from_bundler'
+	 6: from /usr/lib/ruby/2.7.0/bundler.rb:149:in `setup'
+	 5: from /usr/lib/ruby/2.7.0/bundler/runtime.rb:26:in `setup'
+	 4: from /usr/lib/ruby/2.7.0/bundler/runtime.rb:26:in `map'
+	 3: from /usr/lib/ruby/2.7.0/bundler/spec_set.rb:147:in `each'
+	 2: from /usr/lib/ruby/2.7.0/bundler/spec_set.rb:147:in `each'
+	 1: from /usr/lib/ruby/2.7.0/bundler/runtime.rb:31:in `block in setup'
+/usr/lib/ruby/2.7.0/bundler/runtime.rb:312:in `check_for_activated_spec!': [1mYou have already activated i18n 1.10.0, but your Gemfile requires i18n 0.9.5. Prepending `bundle exec` to your command may solve this. ([1;4mGem::LoadError[m[1m)[m
+Configuration file: /mnt/c/Users/teald/Documents/linux/development/teald.github.io/_config.yml
+            Source: /mnt/c/Users/teald/Documents/linux/development/teald.github.io
+       Destination: /mnt/c/Users/teald/Documents/linux/development/teald.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+       Jekyll Feed: Generating feed for posts
+                    done in 0.337 seconds.
+/var/lib/gems/2.7.0/gems/pathutil-0.16.2/lib/pathutil.rb:502: warning: Using the last argument as keyword parameters is deprecated
+[33m                    Auto-regeneration may not work on some Windows versions.[0m
+[33m                    Please see: https://github.com/Microsoft/BashOnWindows/issues/216[0m
+[33m                    If it does not work, please upgrade Bash on Windows or run Jekyll with --no-watch.[0m
+ Auto-regeneration: enabled for '/mnt/c/Users/teald/Documents/linux/development/teald.github.io'
+LiveReload address: http://127.0.0.1:35729
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:30:35
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.4870602 seconds.
+                    
+        LiveReload: Browser connected
+[2022-04-06 01:30:40] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:30:44
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.2612989 seconds.
+                    
+[2022-04-06 01:30:44] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:30:54
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.382153 seconds.
+                    
+[2022-04-06 01:30:54] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:31:04
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.4646309 seconds.
+                    
+[2022-04-06 01:31:05] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:31:14
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.251078 seconds.
+                    
+[2022-04-06 01:31:14] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:31:24
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.3602309 seconds.
+                    
+[2022-04-06 01:31:24] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:31:34
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.3769159 seconds.
+                    
+[2022-04-06 01:31:34] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:31:44
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.2653358 seconds.
+                    
+[2022-04-06 01:31:44] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2022-04-06 01:31:54
+                    screenlog.0
+       Jekyll Feed: Generating feed for posts
+                    ...done in 0.3330503 seconds.
+                    
