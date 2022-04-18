@@ -10,7 +10,7 @@ model developer excited to start applying over a decade of experience to novel
 problems in the real world.
 
 On this site you can find my 
-[abridged resumee](/documents/professional/resumee.pdf) and 
+[abridged resume](/documents/professional/resume.pdf) and 
 [curriculum vitae](/documents/professional/cv.pdf).
 
 Of course, you can always just get a whiff using my [about me](/about) page
