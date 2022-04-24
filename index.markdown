@@ -6,8 +6,8 @@ layout: home
 ---
 
 You've reached the personal webpage of Dillon Teal ("Teal"), an astronomer and
-model developer excited to start applying over a decade of experience to novel
-problems.
+model developer with over a decade of experience solving problems ranging from
+the atomic to galactic scale.
 
 On this site you can find my 
 [resmue](/resume) and 
