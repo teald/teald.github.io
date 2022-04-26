@@ -13,5 +13,5 @@ On this site you can find my
 [resmue](/resume) and 
 [curriculum vitae](/documents/professional/cv.pdf).
 
-Of course, you can always just get a whiff using my [about me](/about) page
+Of course, you can always just get an idea of who I am using my [about me](/about) page
 before you decide to keep going. :)
