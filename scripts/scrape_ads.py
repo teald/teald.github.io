@@ -36,10 +36,10 @@ parser.add_argument('-v', '--verbose', action='store_true',
         help="Verbose output to terminal."
         )
 
-parser.add_argument('--year-range', nargs='+',
+parser.add_argument('--year-range', nargs='+', default=[],
         help="Year range to search. If one year is provided, it will only "
              "search for papers *after* that year. Otherwise, two years will "
-             "bound the search."
+             "bound the search inclusively."
         )
 
 p = parser.parse_args()
@@ -97,6 +97,14 @@ def get_papers(author, refereed=True):
         if min_year is not None:
             # Specified year range.
             paper_year = int(paper.year)
+
+            if paper_year < min_year:
+                continue
+
+            if max_year is not None:
+                if paper_year > max_year:
+                    continue
+
 
         aid = [
             ":".join(t.split(":")[1:])
