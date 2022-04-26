@@ -4,7 +4,7 @@ title: About Teal
 permalink: /about/
 ---
 
-Welcome to the personal website of Dillon Teal ("Teal"). They use "They/Them/Their" pronouns.
+Welcome to the personal website of Dillon Teal ("Teal"). They use ["They/Them/Their" pronouns](https://en.wikipedia.org/wiki/Singular_they).
 
 Teal is a PhD candidate at the University of Maryland, College Park. Their research focuses on the chemistry and physics of planetary atmospheres ranging from terrestrial to gas giant planets.
 
