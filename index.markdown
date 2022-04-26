@@ -6,11 +6,11 @@ layout: home
 ---
 
 You've reached the personal webpage of Dillon Teal ("Teal"), an astronomer and
-model developer excited to start applying over a decade of experience to novel
-problems in the real world.
+model developer with over a decade of experience solving problems ranging from
+the atomic to galactic scale.
 
 On this site you can find my 
-[abridged resume](/documents/professional/resume.pdf) and 
+[resmue](/resume) and 
 [curriculum vitae](/documents/professional/cv.pdf).
 
 Of course, you can always just get a whiff using my [about me](/about) page
