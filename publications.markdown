@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+This page is [automagically generated](https://github.com/teald/teald.github.io/tree/main/scripts) by scripts you are more than welcome to use!
 
 # Refereed Publications
 **Teal, D. J.**; Kempton, Eliza M. -R.; Bastelberger, Sandra; Youngblood, Allison; Arney, Giada. _Effects of UV Stellar Spectral Uncertainty on the Chemistry of Terrestrial Atmospheres_. _The Astrophysical Journal_, March 2022. [ADS Entry](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...90T).

@@ -19,8 +19,23 @@ header = '\n'.join([
     "permalink: /publications/",
     "---",
     "",
-    "# Refereed Publications\n"
     ])
+
+# Link to the github repository your github pages page is generated from.
+github_link = "https://github.com/teald/teald.github.io"
+
+
+# Add in additional messages down here. 
+ego_message = (
+        f"This page is "
+        f"[automagically generated]"
+        f"({github_link.rstrip('/')}/tree/main/scripts) "
+        f"by scripts you are more than welcome to use!"
+        )
+
+header += ego_message + '\n'
+
+header += "\n# Refereed Publications\n"
 
 
 # Definitions
