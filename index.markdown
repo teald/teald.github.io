@@ -10,7 +10,7 @@ model developer with over a decade of experience solving problems ranging from
 the atomic to galactic scale.
 
 On this site you can find my 
-[resmue](/resume) and 
+[resume](/documents/professional/resume.pdf) and 
 [curriculum vitae](/documents/professional/cv.pdf).
 
 Of course, you can always just get an idea of who I am using my [about me](/about) page
