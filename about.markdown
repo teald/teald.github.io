@@ -4,6 +4,13 @@ title: About Teal
 permalink: /about/
 ---
 
+<img
+    src="../images/oops_all_teal.jpg"
+    alt="A picture of Teal on a transparent background."
+    style="float: left; margin-right: 10px;"
+    width="150"
+/>
+
 Welcome to the personal website of Dillon Teal ("Teal"). They use ["They/Them/Their" pronouns](https://en.wikipedia.org/wiki/Singular_they).
 
 Teal is a PhD candidate at the University of Maryland, College Park. Their research focuses on the chemistry and physics of planetary atmospheres ranging from terrestrial to gas giant planets.
