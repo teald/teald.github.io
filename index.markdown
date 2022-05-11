@@ -5,12 +5,14 @@
 layout: home
 ---
 
+<!--
 <img
     src="images/hot_dam.jpg"
     alt="A picture of Teal in front of a dam spillway."
     style="float: right; margin-left: 10px;"
     width="300"
 />
+-->
 
 You've reached the personal webpage of Dillon Teal ("Teal"), an astronomer and
 model developer with over a decade of experience solving problems ranging from
