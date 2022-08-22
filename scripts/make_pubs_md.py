@@ -5,6 +5,7 @@
 '''
 import json
 import datetime
+import pytz
 
 from typing import Dict, List, Any
 
@@ -26,6 +27,7 @@ github_link = "https://github.com/teald/teald.github.io"
 
 
 # Add in additional messages down here. 
+# Script references
 ego_message = (
         f"This page is "
         f"[automagically generated]"
@@ -34,6 +36,20 @@ ego_message = (
         )
 
 header += ego_message + '\n'
+
+# Timestamp
+pacific = pytz.timezone('US/Pacific')
+cur_time = pacific.localize(datetime.datetime.now())
+utc = pytz.timezone('UTC')
+fmt = r"%A, %d %B %Y at %I:%M%P UTC"
+utc_time = cur_time.astimezone(utc)
+timestr = utc_time.strftime(fmt)
+
+timestamp = (
+        f"Last updated: {timestr}"
+        )
+
+header += '\n' + timestamp + '\n'
 
 header += "\n# Refereed Publications\n"
 
