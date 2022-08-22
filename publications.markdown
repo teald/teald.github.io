@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 This page is [automagically generated](https://github.com/teald/teald.github.io/tree/main/scripts) by scripts you are more than welcome to use!
 
+Last updated: Monday, 22 August 2022 at 10:56pm UTC
+
 # Refereed Publications
 **Teal, D. J.**; Kempton, Eliza M. -R.; Bastelberger, Sandra; Youngblood, Allison; Arney, Giada. _Effects of UV Stellar Spectral Uncertainty on the Chemistry of Terrestrial Atmospheres_. _The Astrophysical Journal_, March 2022. [ADS Entry](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...90T).
 
@@ -17,4 +19,6 @@ Melbourne, Katherine; Youngblood, Allison; France, Kevin; Froning, C. S.; Pineda
 Kopparapu, Ravi Kumar; Hébrard, Eric; Belikov, Rus; Batalha, Natalie M.; Mulders, Gijs D.; Stark, Chris; **Teal, Dillon**; Domagal-Goldman, Shawn; Mandell, Avi. _Exoplanet Classification and Yield Estimates for Direct Imaging Missions_. _The Astrophysical Journal_, April 2018. [ADS Entry](https://ui.adsabs.harvard.edu/abs/2018ApJ...856..122K).
 
 Morley, Caroline V.; Knutson, Heather; Line, Michael; Fortney, Jonathan J.; Thorngren, Daniel; Marley, Mark S.; **Teal, Dillon**; Lupu, Roxana. _Forward and Inverse Modeling of the Emission and Transmission Spectrum of GJ 436b: Investigating Metal Enrichment, Tidal Heating, and Clouds_. _The Astronomical Journal_, February 2017. [ADS Entry](https://ui.adsabs.harvard.edu/abs/2017AJ....153...86M).
+
+Johnson, S. W.; Smith, J. A.; Franklin, E. G.; Moraski, L. K.; **Teal, D. J.**. _Gravity and atmospheric pressure effects on crater formation in sand_. _Journal of Geophysical Research_, September 1969. [ADS Entry](https://ui.adsabs.harvard.edu/abs/1969JGR....74.4838J).
 
