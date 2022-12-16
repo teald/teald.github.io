@@ -1,5 +1,36 @@
 [
   {
+    "arxiv": "2205.09606",
+    "authors": [
+      "Feinstein, Adina D.",
+      "France, Kevin",
+      "Youngblood, Allison",
+      "Duvvuri, Girish M.",
+      "Teal, D. J.",
+      "Cauley, P. Wilson",
+      "Seligman, Darryl Z.",
+      "Gaidos, Eric",
+      "Kempton, Eliza M. -R.",
+      "Bean, Jacob L.",
+      "Diamond-Lowe, Hannah",
+      "Newton, Elisabeth",
+      "Ginzburg, Sivan",
+      "Plavchan, Peter",
+      "Gao, Peter",
+      "Schlichting, Hilke"
+    ],
+    "citations": 3,
+    "doctype": "article",
+    "doi": "10.3847/1538-3881/ac8107",
+    "page": 110,
+    "pub": "The Astronomical Journal",
+    "pubdate": "2022-09-00",
+    "title": "AU Microscopii in the Far-UV: Observations in Quiescence, during Flares, and Implications for AU Mic b and c",
+    "url": "https://ui.adsabs.harvard.edu/abs/2022AJ....164..110F",
+    "volume": "164",
+    "year": "2022"
+  },
+  {
     "arxiv": "2201.08805",
     "authors": [
       "Teal, D. J.",
@@ -8,7 +39,7 @@
       "Youngblood, Allison",
       "Arney, Giada"
     ],
-    "citations": 0,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac4d99",
     "page": 90,
@@ -34,7 +65,7 @@
       "Teal, D. J.",
       "Wang, Ruoyan"
     ],
-    "citations": 24,
+    "citations": 55,
     "doctype": "article",
     "doi": "10.3847/1538-4357/ac141d",
     "page": 85,
@@ -57,7 +88,7 @@
       "Corrales, Lia",
       "Kempton, Eliza M. -R."
     ],
-    "citations": 4,
+    "citations": 8,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abfa1c",
     "page": 10,
@@ -104,7 +135,7 @@
       "Tilipman, Dennis",
       "Vieytes, Mariela"
     ],
-    "citations": 11,
+    "citations": 16,
     "doctype": "article",
     "doi": "10.3847/1538-3881/abbf5c",
     "page": 269,
@@ -128,7 +159,7 @@
       "Domagal-Goldman, Shawn",
       "Mandell, Avi"
     ],
-    "citations": 39,
+    "citations": 48,
     "doctype": "article",
     "doi": "10.3847/1538-4357/aab205",
     "page": 122,
@@ -151,7 +182,7 @@
       "Teal, Dillon",
       "Lupu, Roxana"
     ],
-    "citations": 84,
+    "citations": 87,
     "doctype": "article",
     "doi": "10.3847/1538-3881/153/2/86",
     "page": 86,
@@ -161,5 +192,25 @@
     "url": "https://ui.adsabs.harvard.edu/abs/2017AJ....153...86M",
     "volume": "153",
     "year": "2017"
+  },
+  {
+    "arxiv": null,
+    "authors": [
+      "Johnson, S. W.",
+      "Smith, J. A.",
+      "Franklin, E. G.",
+      "Moraski, L. K.",
+      "Teal, D. J."
+    ],
+    "citations": 24,
+    "doctype": "article",
+    "doi": "10.1029/JB074i020p04838",
+    "page": 4838,
+    "pub": "Journal of Geophysical Research",
+    "pubdate": "1969-09-00",
+    "title": "Gravity and atmospheric pressure effects on crater formation in sand",
+    "url": "https://ui.adsabs.harvard.edu/abs/1969JGR....74.4838J",
+    "volume": "74",
+    "year": "1969"
   }
 ]

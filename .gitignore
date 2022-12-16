@@ -1,3 +1,7 @@
+# Drafts that shouldn't get uploaded.
+draft_pages/
+
+# Defaults from pages
 _site
 .sass-cache
 .jekyll-cache

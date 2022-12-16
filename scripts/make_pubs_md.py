@@ -53,7 +53,6 @@ header += '\n' + timestamp + '\n'
 
 header += "\n# Refereed Publications\n"
 
-
 # Definitions
 def get_ads_data(file: str="../data/ads_scrape.json") -> Dict[str, Any]:
     '''Fetches ads data from a json file.'''
